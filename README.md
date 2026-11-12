@@ -1,6 +1,23 @@
 # RemoteRepository
 遠端資料庫
 
-# 讀書心得
+# 參考網址  程式積木  
 
-## 書名：　　金融人才Ｘ機器學習
+#  CodeAI
+## https://code.org/en-US
+
+#  Scratch（MIT 麻省理工學院開發）
+## https://scratch.mit.edu/
+
+#  Google Blockly Games
+## https://blockly.games/
+
+#  Microsoft MakeCode
+## https://www.microsoft.com/makecode
+
+#  Machine Learning for Kids
+## https://machinelearningforkids.co.uk/
+
+#  CodeCombat（程式戰鬥）
+## https://codecombat.com/
+
